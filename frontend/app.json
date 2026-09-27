@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Task Management",
+    "slug": "task-management-assessment",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
